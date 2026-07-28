@@ -18,6 +18,18 @@ Each entry should briefly describe what was accomplished, what was learned, and 
 
 # Journal
 
+## July 27, 2026
+
+### Brain Dump Upload
+
+#### Notes
+
+Jotted down information about key game elements, stylization, system ideas, mechanics, lore, QoL features, etc. Backed up to the priv repo Brain Dump.md.
+
+---
+
+# Journal
+
 ## July 26, 2026
 
 ### PlayerSandbox Established
